@@ -18,7 +18,7 @@ This problem was solved by multiplying a matrix with a lot of circle areas with 
 # Usage Example
 
 ```
-python gasman.py --source=map.dat --radius=60 --circle-population=100 --traveller-population=100 --verbose
+python gasman.py --source=map.dat --radius=60 --circle-population=100 --traveller-population=100
 ```
 
 ![Image of the Map](https://i.imgur.com/RROIZzT.png)
